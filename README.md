@@ -1,15 +1,22 @@
 <div align="center">
 
-  <!-- Banner Superior Dinámico -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,15,20,30&height=180&section=header&text=Daniel%20Leandro%20Gutiérrez&fontSize=34&fontColor=00F3FF&fontAlignY=38&desc=Full-Stack%20Developer%20|%20Laravel%20&%20Enterprise%20Solutions&descSize=15&descAlignY=62&animation=fadeIn" width="100%" />
+  <!-- Banner Tecnológico Superior con Efecto Terminal y Circuitos -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0.1,1a1b26,0f172a,1e293b&height=210&section=header&text=DLGO2003@SYSTEM:~#&fontSize=22&fontColor=00f3ff&fontFamily=monospace&fontAlignY=30&desc=Full-Stack%20Engineer%20|%20Enterprise%20Architecture%20|%20Backend%20Systems&descSize=14&descColor=94a3b8&descAlignY=55&animation=pulse&stroke=00f3ff&strokeWidth=2" width="100%" />
 
-  <!-- Enlaces de Contacto y Web -->
+  <!-- Línea de Comandos / Badges de Estado del Sistema -->
+  <p>
+    <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff66?style=for-the-badge&logo=statuspage&logoColor=black" />
+    <img src="https://img.shields.io/badge/CORE-PHP_%2F_LARAVEL-777BB4?style=for-the-badge&logo=laravel&logoColor=white" />
+    <img src="https://img.shields.io/badge/INFRA-WINDOWS_SERVER-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  </p>
+
+  <!-- Enlaces de Acceso Rápido -->
   <p>
     <a href="https://portfolio-daniel.homelabvps.dev/">
-      <img src="https://img.shields.io/badge/🌐_Portafolio-00F3FF?style=for-the-badge&logo=google-chrome&logoColor=black" />
+      <img src="https://img.shields.io/badge/🌐_PORTFOLIO_HOST-00F3FF?style=flat-square&logo=google-chrome&logoColor=black" />
     </a>
     <a href="https://github.com/DLGO2003">
-      <img src="https://img.shields.io/badge/🐙_GitHub_PRO-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/GITHUB_PRO_PROFILE-181717?style=flat-square&logo=github&logoColor=white" />
     </a>
   </p>
 
@@ -22,8 +29,7 @@
 <table align="center">
   <tr>
     <td width="60%">
-      💻 ¡Hola! Soy <b>Daniel Leandro</b>, Ingeniero de Software enfocado en el desarrollo web robusto y la operación de sistemas empresariales.<br><br>
-      🚀 Cuento con más de 4 años de experiencia creando soluciones escalables con <b>PHP, Laravel y bases de datos relacionales</b>.<br><br>
+      💻 ¡Hola! Soy <b>Daniel Leandro</b>, Ingeniero de Software enfocado en el desarrollo web robusto y la operación de sistemas.<br><br>
       🛠️ Apasionado por la optimización de código, el diseño de arquitecturas limpias, la automatización y la administración de infraestructura.
     </td>
     <td width="40%" align="center">
