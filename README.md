@@ -1,14 +1,14 @@
 <div align="center">
 
-  <!-- Banner negro sólido con texto blanco en formato limpio -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=160&section=header&text=Daniel%20,%20desarrolador%20full-stack&fontSize=24&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%" />
+  <!-- Banner con gradiente integrado de negro y dorado metálico -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000,1a1400,332600,664d00,cca300,ffd700&height=220&section=header&text=Daniel%20Gutierrez&fontSize=32&fontColor=ffffff&fontAlignY=35&desc=🚀Desarrollador%20Full-Stack🚀&descSize=16&descColor=ffd700&descAlignY=62&animation=fadeIn" width="100%" />
 
-  <br /><br />
+  <br />
 
-  <!-- Enlaces de Acceso Rápido -->
+  <!-- Botones con diseño exclusivo en negro y detalles dorados -->
   <p>
     <a href="https://portfolio-daniel.homelabvps.dev/">
-      <img src="https://img.shields.io/badge/🌐%20PORTAFOLIO%20WEB-0f172a?style=for-the-badge&logo=googlechrome&logoColor=00F3FF&labelColor=000000" alt="Portafolio" />
+      <img src="https://img.shields.io/badge/📁%20PORTAFOLIO%20WEB-000000?style=for-the-badge&logoColor=000000&labelColor=1f2937&color=ffd700" alt="Portafolio" />
     </a>
   </p>
 
@@ -21,7 +21,8 @@
 <table align="center">
   <tr>
     <td width="60%">
-      💻 ¡Hola! Soy <b>Daniel Leandro</b>, Ingeniero de Software enfocado en el desarrollo web robusto y la operación de sistemas.<br><br>
+      💻 ¡Hola! Soy <b>Daniel Leandro</b>, Ingeniero de Software enfocado en el desarrollo web robusto y la operación de sistemas empresariales.<br><br>
+      🚀 Cuento con más de 4 años de experiencia creando soluciones escalables con <b>PHP, Laravel y bases de datos relacionales</b>.<br><br>
       🛠️ Apasionado por la optimización de código, el diseño de arquitecturas limpias, la automatización y la administración de infraestructura.
     </td>
     <td width="40%" align="center">
@@ -69,17 +70,4 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DLGO2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DLGO2003&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Langs" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DLGO2003&theme=tokyo-night&hide_border=true&area=true&custom_color_bg=1a1b26" width="100%" alt="Activity Graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,15,20,30&height=80&section=footer" width="100%" />
-</div>
+  <img src="
