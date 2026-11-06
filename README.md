@@ -21,17 +21,14 @@
 <table align="center">
   <tr>
     <td width="60%">
-      💻 ¡Hola! Soy <b>Daniel Leandro</b>, Ingeniero de Software enfocado en el desarrollo web robusto y la operación de sistemas empresariales.<br><br>
-      🚀 Cuento con más de 4 años de experiencia creando soluciones escalables con <b>PHP, Laravel y bases de datos relacionales</b>.<br><br>
+      💻 ¡Hola! Soy <b>Daniel Leandro</b>, Ingeniero de Software enfocado en el desarrollo web robusto y la operación de sistemas.<br><br>
       🛠️ Apasionado por la optimización de código, el diseño de arquitecturas limpias, la automatización y la administración de infraestructura.
     </td>
     <td width="40%" align="center">
-      <code>
-        📍 Colombia, CO 🇨🇴<br>
+        📍 Colombia, CO<br>
         💼 Full-Stack Developer<br>
         🎓 Enterprise IT & Systems<br>
         ⚙️ Self-Hosting Enthusiast
-      </code>
     </td>
   </tr>
 </table>
