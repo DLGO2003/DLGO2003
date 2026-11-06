@@ -1,22 +1,14 @@
 <div align="center">
 
-  <!-- Banner Tecnológico Superior con Efecto Terminal y Circuitos -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0.1,1a1b26,0f172a,1e293b&height=210&section=header&text=DLGO2003@SYSTEM:~#&fontSize=22&fontColor=00f3ff&fontFamily=monospace&fontAlignY=30&desc=Full-Stack%20Engineer%20|%20Enterprise%20Architecture%20|%20Backend%20Systems&descSize=14&descColor=94a3b8&descAlignY=55&animation=pulse&stroke=00f3ff&strokeWidth=2" width="100%" />
+  <!-- Banner negro sólido con texto blanco en formato limpio -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=160&section=header&text=Daniel%20,%20desarrolador%20full-stack&fontSize=24&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%" />
 
-  <!-- Línea de Comandos / Badges de Estado del Sistema -->
-  <p>
-    <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff66?style=for-the-badge&logo=statuspage&logoColor=black" />
-    <img src="https://img.shields.io/badge/CORE-PHP_%2F_LARAVEL-777BB4?style=for-the-badge&logo=laravel&logoColor=white" />
-    <img src="https://img.shields.io/badge/INFRA-WINDOWS_SERVER-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  </p>
+  <br /><br />
 
   <!-- Enlaces de Acceso Rápido -->
   <p>
     <a href="https://portfolio-daniel.homelabvps.dev/">
-      <img src="https://img.shields.io/badge/🌐_PORTFOLIO_HOST-00F3FF?style=flat-square&logo=google-chrome&logoColor=black" />
-    </a>
-    <a href="https://github.com/DLGO2003">
-      <img src="https://img.shields.io/badge/GITHUB_PRO_PROFILE-181717?style=flat-square&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/🌐%20PORTAFOLIO%20WEB-0f172a?style=for-the-badge&logo=googlechrome&logoColor=00F3FF&labelColor=000000" alt="Portafolio" />
     </a>
   </p>
 
