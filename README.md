@@ -1,43 +1,87 @@
 <div align="center">
 
-  <!-- Header animado con SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F3FF&center=true&vcenter=true&width=600&height=50&lines=¡Hola!+Soy+Daniel+Leandro+Gutiérrez;Full-Stack+Developer+%7C+Laravel+%26+PHP;Especialista+en+Soluciones+Empresariales" alt="Typing SVG" />
+  <!-- Banner Superior Dinámico -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,15,20,30&height=180&section=header&text=Daniel%20Leandro%20Gutiérrez&fontSize=34&fontColor=00F3FF&fontAlignY=38&desc=Full-Stack%20Developer%20|%20Laravel%20&%20Enterprise%20Solutions&descSize=15&descAlignY=62&animation=fadeIn" width="100%" />
 
-  <br />
-
-  <!-- Badges sociales estilo Capsule -->
-  <a href="https://portfolio-daniel.homelabvps.dev/">
-    <img src="https://img.shields.io/badge/Website-Portfolio-00F3FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/DLGO2003">
-    <img src="https://img.shields.io/badge/GitHub-PRO-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub PRO" />
-  </a>
+  <!-- Enlaces de Contacto y Web -->
+  <p>
+    <a href="https://portfolio-daniel.homelabvps.dev/">
+      <img src="https://img.shields.io/badge/🌐_Portafolio-00F3FF?style=for-the-badge&logo=google-chrome&logoColor=black" />
+    </a>
+    <a href="https://github.com/DLGO2003">
+      <img src="https://img.shields.io/badge/🐙_GitHub_PRO-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
 
 </div>
 
-<br />
+---
 
-<!-- Banner de bienvenida / Presentación -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Separador animado" />
+## ⚡ Sobre Mí
 
-## 🚀 Sobre Mí
+<table align="center">
+  <tr>
+    <td width="60%">
+      💻 ¡Hola! Soy <b>Daniel Leandro</b>, Ingeniero de Software enfocado en el desarrollo web robusto y la operación de sistemas empresariales.<br><br>
+      🚀 Cuento con más de 4 años de experiencia creando soluciones escalables con <b>PHP, Laravel y bases de datos relacionales</b>.<br><br>
+      🛠️ Apasionado por la optimización de código, el diseño de arquitecturas limpias, la automatización y la administración de infraestructura.
+    </td>
+    <td width="40%" align="center">
+      <code>
+        📍 Colombia, CO 🇨🇴<br>
+        💼 Full-Stack Developer<br>
+        🎓 Enterprise IT & Systems<br>
+        ⚙️ Self-Hosting Enthusiast
+      </code>
+    </td>
+  </tr>
+</table>
 
-```php
-<?php
+---
 
-namespace Developer;
+## 🛠️ Stack Tecnológico
 
-class DanielGutierrez extends SoftwareEngineer 
-{
-    public string $name = 'Daniel Leandro Gutiérrez Ospina';
-    public string $role = 'Full-Stack Web Developer';
-    public string $location = 'Colombia 🇨🇴';
-    public int $experienceYears = 4;
-    
-    public array $specialties = [
-        'Web Architecture',
-        'Enterprise Resource Planning (ERP)',
-        'Database Optimization',
-        'System Maintenance & Hardware Admin'
-    ];
-}
+<div align="center">
+
+| Categoría | Tecnologías y Herramientas |
+| :--- | :--- |
+| **Backend** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white) |
+| **Frontend & Web** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Entorno & DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white) ![Laragon](https://img.shields.io/badge/Laragon-11b5e5?style=flat-square&logo=letsencrypt&logoColor=white) |
+
+</div>
+
+---
+
+## 🚀 Proyectos Destacados
+
+<div align="center">
+
+| Repositorio | Descripción | Tecnologías |
+| :--- | :--- | :--- |
+| **[erp-tesltda-app](https://github.com/DLGO2003/erp-tesltda-app)** | Sistema de planificación de recursos empresariales (ERP). | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square) |
+| **[portfolio](https://github.com/DLGO2003/portfolio)** | Sitio web personal y portafolio profesional. | ![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat-square) |
+| **[unit-testing](https://github.com/DLGO2003/unit-testing)** | Pruebas unitarias orientadas a flujos lógicos. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square) |
+
+</div>
+
+---
+
+## 📈 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DLGO2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DLGO2003&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Langs" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DLGO2003&theme=tokyo-night&hide_border=true&area=true&custom_color_bg=1a1b26" width="100%" alt="Activity Graph" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,15,20,30&height=80&section=footer" width="100%" />
+</div>
